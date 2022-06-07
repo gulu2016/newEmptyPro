@@ -13,3 +13,7 @@ new content
 -- third commit
 new content
 new content
+
+-- hotfix commit
+new content
+new content
