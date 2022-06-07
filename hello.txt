@@ -17,3 +17,8 @@ new content
 -- hotfix commit
 new content
 new content
+
+-- hotfix commit 2
+new content
+new content
+
